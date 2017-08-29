@@ -1,0 +1,18 @@
+body {
+	background: green;
+	text-align: center; 
+	color: #ffffff;
+}
+
+p {
+	font-family: courier;
+	color: yellow;
+}
+a {color: red;}
+
+.negrito {font-weight: bold;
+	text-decoration: underline;
+}
+#destaque {
+	text-decoration: none;
+}
